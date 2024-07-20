@@ -10,7 +10,7 @@ Create a page based on Notion where, upon entering the text "/1" in an input fie
 
 - The biggest challenge was that the JavaScript logic, based on dynamic input interaction, was something new to me. Additionally, it was the first time I worked with a deadline in the programming field.
 
-<img src="./src/images/350656287-bb86c62b-a87f-4bef-b7be-7b3b78e1b9c9" alt="Funcion Print">
+<img src="src/images/350656287-bb86c62b-a87f-4bef-b7be-7b3b78e1b9c9.png" alt="Funcion Print">
 
 ## Technologies used
 
