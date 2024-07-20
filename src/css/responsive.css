@@ -1,0 +1,11 @@
+@media (max-width: 1900px) {
+    .li-padlok {
+        margin-left: 30%;
+    }
+}
+
+@media (max-width: 1120px) {
+    .li-padlok {
+        margin-left: 5%;
+    }
+}
